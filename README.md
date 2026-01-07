@@ -3,7 +3,7 @@
 This project implements a Linear Regression model to predict house prices using the Kaggle House Prices dataset.
 
 ## Dataset
-- Source: Kaggle – House Prices: Advanced Regression Techniques
+- Source: (https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 - Features used:
   - Above Ground Living Area (GrLivArea)
   - Number of Bedrooms (BedroomAbvGr)
